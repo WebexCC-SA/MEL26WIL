@@ -1,4 +1,0 @@
-By completing these bonus labs in your own time, you will gain practical experience with some of the most innovative features of Webex Contact Center (WxCC). You will learn how to set up IVR campaigns powered by AI agents, script custom AI agent behaviors, and integrate digital channels like chat and social messaging into your contact center environment.
-
-
-Additionally, you will explore topic analytics to gain valuable insights from customer interactions. These labs will help you deepen your understanding of how AI and digital integration can enhance customer experiences and improve operational efficiency within WxCC.
