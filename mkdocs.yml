@@ -1,6 +1,6 @@
 ---
-site_name: "Cisco Live 2026 - Melbourne - Walk-In Labs" # This must begin with the session ID, e.g. LABXXX-1234 This is my Cisco Live Lab
-site_description: "Cisco Live 2026 - Melbourne - Walk-In Labs" # must be same as "site_name"
+site_name: "2026 - Melbourne - Walk-In Labs" # This must begin with the session ID, e.g. LABXXX-1234 This is my Cisco Live Lab
+site_description: "2026 - Melbourne - Walk-In Labs" # must be same as "site_name"
 site_author: Kevin Simpson, Mykola Danylchuk
 copyright: Copyright &copy; 2026 Cisco
 theme:
