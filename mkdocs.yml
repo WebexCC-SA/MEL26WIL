@@ -87,7 +87,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
-  - LABCOL-1710: LABCOL-1710.
+  - LABCOL-1710: LABCOL-1710.md
   - LABCOL-1711: LABCOL-1711.md
 
   
