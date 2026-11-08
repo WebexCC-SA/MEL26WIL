@@ -7,7 +7,7 @@ The objective of this lab is to provide hands-on experience with the Webex Campa
 
 Upon completion of this lab, you will be able to test the webex campaign calls.
 
-## 1.- Overview of Webex Contact Center and Webex Native Campaign Manager
+## Overview of Webex Contact Center and Webex Native Campaign Manager
 
 A high-level architecture flow of different modules associated with Control Hub within Webex Contact Center.
 
