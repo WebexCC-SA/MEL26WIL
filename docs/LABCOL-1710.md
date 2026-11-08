@@ -1,5 +1,5 @@
 
-<span style="color: red;">[Lab Guide at the Bottom of this page]</span
+<span style="color: red;">[Lab Guide at the Bottom of this page]</span>
 
 # Lab Objective
 
