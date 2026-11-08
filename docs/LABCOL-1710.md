@@ -13,4 +13,4 @@ A high-level architecture flow of different modules associated with Control Hub 
 
 ### User Lab Access Details
 
-<span style="color: grey;">[Dowload Lab Guide for LABCOL-1710]</span>[Here](../docs/graphics/download/LABCOL-1710.docx){: download="LABCOL-1710.docx"}
+<span style="color: grey;">[Dowload Lab Guide for LABCOL-1710]</span>[Here](../docs/graphics/download/LABCOL-1710-WebexContactCenterNativeCampaignManager.docx){: download="LABCOL-1710.docx"}
